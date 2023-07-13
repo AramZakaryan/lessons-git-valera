@@ -12,7 +12,7 @@ function App() {
                 <h2>AddedTitle for pushing 3</h2>
                 <h2>AddedTitle for pushing 4</h2>
                 <h2>AddedTitle for pushing 5</h2>
-                <h2>AddedTitle for pushing 5</h2>
+                <h2>AddedTitle for pushing 6</h2>
                 <h2>AddedTitle for pushing 7</h2>
                 <h2>AddedTitle for pushing 8</h2>
                 <p>
